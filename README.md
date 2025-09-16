@@ -7,6 +7,8 @@ Quick notes:
 - Not intended for production; rough edges expected (no en passant, promotion is basic queen autoselection).
 - No contribution RFC — it’s a personal toy project.
 
+<img src="exampleImg.png" alt="Example Image" height="500"/>
+
 ## Quick Start (macOS)
 Prereqs: clang (Command Line Tools) and SFML 3.x
 
